@@ -29,3 +29,48 @@
 ## 🚀 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/CyberExpertHaxkx)
 [![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DarkHaxkx)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=🔐+HAXKX+PERSONAL+VAULT;☠️+Cyber+Security+Is+My+Passion;👁️‍🗨️+Unauthorized+Access+Will+Be+Logged!" alt="Typing SVG" />
+</h1>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haxkx&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haxkx&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haxkx&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 👁‍🗨 WARNING
+
+> ⚠️ **STRICTLY PRIVATE ZONE**
+>
+> Any unauthorized access attempt will be logged and tracked.  
+> All tools and files are encrypted, watermarked, and secured using internal blockchain hashing.  
+> You are being monitored via GitHub Action.
+
+---
+
+### 🔐 SECURITY LAYERS:
+
+- 🔒 Repo is `PRIVATE`
+- 🧬 Encrypted Files
+- 📍 Access Logs Enabled
+- 🛰️ GitHub Action Trap
+- 🧿 Anti-Reverse Engineering Protection
+
+---
+
+### 🧠 ABOUT ME:
+
+```bash
+HAXKX = {
+  "title": "Cyber Expert",
+  "mission": "Help & Hack ethically",
+  "stack": ["Bash", "Python", "Web", "Linux", "Security"],
+  "motto": "Hack the world. Help the people."
+}
+
