@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=%F0%9F%91%BD+WELCOME+TO+HAXKX+LABS+%F0%9F%91%BD;Ethical+Hacker+%7C+Python+Developer+%7C+Termux+Lover" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=%F0%9F%91%BD+WELCOME+TO+HAXKX+LABS+%F0%9F%91%BD;Ethical+Hacker+%7C+Devoloper+%7C+Termux+Lover" />
 </p>
 
 ## 👨‍💻 About Me
