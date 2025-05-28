@@ -1,23 +1,88 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&width=435&lines=%F0%9F%91%BD+WELCOME+TO+HAXKX+LABS+%F0%9F%91%BD;Ethical+Hacker+%7C+Devoloper+%7C+Termux+Lover" />
-</p>
+![banner](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/banner.gif)
 
-## 👨‍💻 About Me
-
-- 🔥 I’m a passionate self-taught Ethical Hacker
-- 💻 I mostly work on Termux + Python projects
-- 🧠 Currently learning deep web analysis & automation
-- 💾 Building custom tools from scratch
-- 📫 Contact me: **captainking016@gmail.com**
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=5000&pause=500&color=00FF00&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%9A%80+WELCOME+TO+HAXKX+CYBER+VAULT+%F0%9F%94%92;ETHICAL+HACKER+%E2%9C%88%EF%B8%8F+CYBER+SAVIOR+%F0%9F%92%BB"/>
+</h1>
 
 ---
 
-## 🛠️ My Favorite Tools
+## 🧠 ABOUT ME
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![Termux](https://img.shields.io/badge/Termux-black?style=for-the-badge&logo=gnu-bash)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+```yaml
+Name:        HAXKX
+Alias:       CYBER GHOST 🕶️
+Profession:  Ethical Hacker, Security Analyst, Tool Developer
+Location:    Planet Earth, Networked Globally 🌍
+Mission:     Protect the digital world, one exploit at a time 🔓
+```  
+
+---
+
+## 🧨 MY SKILLS & DOMAINS
+
+```txt
+✔️ Ethical Hacking         ✔️ Penetration Testing (Web, App, API)
+✔️ Python & Bash Scripting ✔️ OSINT & Reconnaissance
+✔️ Tool Development        ✔️ Termux & Android Exploits
+✔️ Social Engineering      ✔️ Red Team Simulation
+✔️ CTFs & Vulnerability Labs
+```
+
+---
+
+## 🔮 PROJECTS FROM THE VAULT
+
+- [🕸️ DARKWEB Recon Tools](https://github.com/haxkx/dark-recon)
+- [📡 HTTP Canary Extractor](https://github.com/haxkx/http-canary-tool)
+- [⚔️ Custom Load Tester](https://github.com/haxkx/black-force)
+- [🔐 Android Info Extractor](https://github.com/haxkx/android-scout)
+
+---
+
+## 🚫 WARNING
+
+> 💀 Every line of code here is laced with digital DNA. Unauthorized use will trigger surveillance protocols.
+> 
+> 🛡️ License: Protected by **HAXKX Cyber Vault License v1.0** — All Rights Reserved.
+
+---
+
+## 🧱 TOOLS I MADE
+
+| Tool Name       | Description                      | Status     |
+|----------------|----------------------------------|------------|
+| HAX-FORCE      | Termux brute-force tester        | ✅ Active  |
+| CANARY-XRAY    | HTTP Canary AI Assistant         | 🧪 Testing |
+| LOAD-BREAKER   | Ethical DDoS Simulator           | 🔥 Stable  |
+| ANDROID-VIEWER | Local Info Panel for Termux      | ✅ Public  |
+
+---
+
+## 📞 CONTACT ME
+
+```bash
+📬 Telegram   : @CyberExpertHaxkx
+📹 YouTube    : @DarkHaxkx
+📫 Email      : captainking016@gmail.com
+```
+
+---
+
+## 🧠 Quote I Believe:
+
+> "Code is not just commands. It's a weapon. A revolution. A shadow in the matrix."
+
+---
+
+<h3 align="center">⚠️ TRESPASSERS WILL BE TRACKED AND TERMINATED ⚠️</h3>
+
+<p align="center">
+  <img src="https://media.tenor.com/dEFQ8T2OZxUAAAAC/hacker-hacking.gif" width="300px">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Haxkx&style=for-the-badge&color=green" alt="profile views"/>
+</p>![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
