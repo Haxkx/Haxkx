@@ -82,7 +82,11 @@ Mission:     Protect the digital world, one exploit at a time 🔓
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Haxkx&style=for-the-badge&color=green" alt="profile views"/>
-</p>![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+</p>!
+[![Hack Mode](https://img.shields.io/badge/HACK_MODE-ON-red?style=for-the-badge&logo=skynet)](https://github.com/Haxkx)
+[![Dark Web](https://img.shields.io/badge/DARK_WEB-ACTIVE-purple?style=for-the-badge&logo=tor)](https://darknet.com)
+[![Root Access](https://img.shields.io/badge/ROOT-ACCESS-green?style=for-the-badge&logo=linux)](https://github.com/Haxkx)
+
 
 ---
 
